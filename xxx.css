@@ -1,0 +1,18 @@
+body {
+   background-color: #c865e1;
+   color: rgb(81, 0, 134);
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+   font-family: 'Courier New', Courier, monospace;
+   margin: 0;
+}
+
+#canvas {
+   background-color: rgb(255, 255, 255);
+}
+
+#source {
+   display: none;
+}
